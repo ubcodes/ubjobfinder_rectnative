@@ -4,7 +4,29 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "mobilejobfinder_app",
-    "slug": "mobilejobfinder_app"
+    "name": "Ubcodes JobFinder",
+    "slug": "ubcodes-jobfinder",
+    "description": "Set Goals, Work hard, Get hired!",
+    "orientation": "portrait",
+    "icon": "./assets/images/ubcodesjobfinder_logo2.png",
+    "splash": {
+      "image": "./assets/images/ubcodesjobfinder_logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e3b73408-a12e-4168-998b-59f7caffe1bd"
+      }
+    },
+    "owner": "ubcodes",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e3b73408-a12e-4168-998b-59f7caffe1bd"
+    },
+    "android": {},
+    "ios": {}
   }
 }
