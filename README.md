@@ -53,5 +53,5 @@ Special thanks to the Expo community and the contributors of the libraries used 
 
 ## Contact
 
-If you have any questions or inquiries, feel free to reach out to me at [ub30codes@gmail.com].
+If you have any questions or inquiries, feel free to reach out to me at ub30codes@gmail.com.
 
